@@ -2,8 +2,6 @@ RENCANA KONTEN SCM
 
 -Javascript
 phyton
-angular 
-react
 -struktur
 -PHP
   laravel
