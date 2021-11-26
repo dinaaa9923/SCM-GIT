@@ -2,6 +2,7 @@ RENCANA KONTEN SCM
 
 -Javascript
 phyton
+menambah baru
 -struktur
 -PHP
 interview
