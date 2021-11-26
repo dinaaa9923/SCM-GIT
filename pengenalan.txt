@@ -2,6 +2,7 @@ RENCANA KONTEN SCM
 
 -Javascript
 phyton
+-struktur
 -PHP
 interview
 vlogs
