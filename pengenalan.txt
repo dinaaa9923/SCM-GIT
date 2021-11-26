@@ -1,0 +1,7 @@
+RENCANA KONTEN SCM 
+
+-Javascript
+phyton
+-PHP
+interview
+vlogs
